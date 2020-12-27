@@ -5,9 +5,9 @@ MPS files contains all data of a linear problem.
 
 Python programming language was used. 
 
-Starting the project, we select an mps file from directore.
+Starting the project, we select an mps file from directory.
 
-As a result, i get a .txt file with result which is downloaded in path directory.
+As a result, i get a .txt file which is downloaded in path directory.
 
 Project is only for educational purpose.
 
